@@ -1,0 +1,14 @@
+C:\Users\anton\Desktop\Ava\trilha-net-poo-desafio-main\Desafio-Celular\CelularApp\bin\Debug\net8.0\CelularApp.exe
+C:\Users\anton\Desktop\Ava\trilha-net-poo-desafio-main\Desafio-Celular\CelularApp\bin\Debug\net8.0\CelularApp.deps.json
+C:\Users\anton\Desktop\Ava\trilha-net-poo-desafio-main\Desafio-Celular\CelularApp\bin\Debug\net8.0\CelularApp.runtimeconfig.json
+C:\Users\anton\Desktop\Ava\trilha-net-poo-desafio-main\Desafio-Celular\CelularApp\bin\Debug\net8.0\CelularApp.dll
+C:\Users\anton\Desktop\Ava\trilha-net-poo-desafio-main\Desafio-Celular\CelularApp\bin\Debug\net8.0\CelularApp.pdb
+C:\Users\anton\Desktop\Ava\trilha-net-poo-desafio-main\Desafio-Celular\CelularApp\obj\Debug\net8.0\CelularApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\Ava\trilha-net-poo-desafio-main\Desafio-Celular\CelularApp\obj\Debug\net8.0\CelularApp.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\Ava\trilha-net-poo-desafio-main\Desafio-Celular\CelularApp\obj\Debug\net8.0\CelularApp.AssemblyInfo.cs
+C:\Users\anton\Desktop\Ava\trilha-net-poo-desafio-main\Desafio-Celular\CelularApp\obj\Debug\net8.0\CelularApp.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Ava\trilha-net-poo-desafio-main\Desafio-Celular\CelularApp\obj\Debug\net8.0\CelularApp.dll
+C:\Users\anton\Desktop\Ava\trilha-net-poo-desafio-main\Desafio-Celular\CelularApp\obj\Debug\net8.0\refint\CelularApp.dll
+C:\Users\anton\Desktop\Ava\trilha-net-poo-desafio-main\Desafio-Celular\CelularApp\obj\Debug\net8.0\CelularApp.pdb
+C:\Users\anton\Desktop\Ava\trilha-net-poo-desafio-main\Desafio-Celular\CelularApp\obj\Debug\net8.0\CelularApp.genruntimeconfig.cache
+C:\Users\anton\Desktop\Ava\trilha-net-poo-desafio-main\Desafio-Celular\CelularApp\obj\Debug\net8.0\ref\CelularApp.dll
